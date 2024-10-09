@@ -6,6 +6,8 @@
         }
         const data = await response.json();
         console.log(data);
+        JSON.parse(data);
+        console.log(data);
     } catch (error) {
         console.error('Fetch error', error);
     }
