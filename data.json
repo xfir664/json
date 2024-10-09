@@ -1,5 +1,26 @@
 {
-    "name": "John",
-    "age": 30,
-    "city": "New York"
+    "function": "console.log('sobaka')",
+    "tasks": 
+    {
+        "task1": {
+            "user-1": {
+                "name": "John"
+            },
+            "user-2": {
+                "name": "John"
+            },
+            "user-3": {
+                "name": "John"
+            },
+            "user-4": {
+                "name": "John"
+            },
+            "user-5": {
+                "name": "John"
+            },
+            "user-6": {
+                "name": "John"
+            }
+        }
+    }
 }
